@@ -1,0 +1,18 @@
+[submodule "1"]
+	path = 1
+	url = https://github.com/cornflourblue/aspnet-core-role-based-authorization-api
+[submodule "12"]
+	path = 12
+	url = https://github.com/cornflourblue/react-role-based-authorization-example
+[submodule "2"]
+	path = 2
+	url = https://github.com/cornflourblue/aspnet-core-react-registration-login-example
+[submodule "3"]
+	path = 3
+	url = https://github.com/cornflourblue/aspnet-core-3-jwt-authentication-api
+[submodule "4"]
+	path = 4
+	url = https://github.com/dimangulov/expenses
+[submodule "9"]
+	path = 9
+	url = https://github.com/PacktPublishing/Learn-CSharp-in-7-days

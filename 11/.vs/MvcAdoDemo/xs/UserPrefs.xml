@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{75CB7C25-AB21-4FEF-A966-196A1B051253}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="Models/EmployeeDataAccessLayer.cs" Line="8" Column="20" />
+      <File FileName="Controllers/EmployeeController.cs" Line="15" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcAdoDemo" expanded="True">
+            <Node name="MvcAdoDemo" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MvcAdoDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

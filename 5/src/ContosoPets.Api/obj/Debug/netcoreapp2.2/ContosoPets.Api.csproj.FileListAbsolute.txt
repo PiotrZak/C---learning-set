@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp2.2/ContosoPets.Api.deps.json
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.csprojAssemblyReference.cache
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.RazorAssemblyInfo.cache
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.RazorAssemblyInfo.cs
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.AssemblyInfo.cs
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.RazorTargetAssemblyInfo.cache
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.dll
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/obj/Debug/netcoreapp2.2/ContosoPets.Api.pdb
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp2.2/ContosoPets.Api.runtimeconfig.json
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp2.2/ContosoPets.Api.runtimeconfig.dev.json
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp2.2/ContosoPets.Api.dll
+/Users/admin/Desktop/Nauka/c#/contoso-pets/src/ContosoPets.Api/bin/Debug/netcoreapp2.2/ContosoPets.Api.pdb

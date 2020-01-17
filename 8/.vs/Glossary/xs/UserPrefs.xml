@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{794B41D6-974C-4A54-B5F2-AC9FE78F4B56}|Default">
+  <MonoDevelop.Ide.ItemProperties.Glossary PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/GlossaryController.cs">
+    <Files>
+      <File FileName="Controllers/WeatherForecastController.cs" Line="36" Column="15" IsPinned="True" />
+      <File FileName="Controllers/GlossaryController.cs" Line="61" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Glossary" expanded="True">
+            <Node name="Glossary" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="GlossaryController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

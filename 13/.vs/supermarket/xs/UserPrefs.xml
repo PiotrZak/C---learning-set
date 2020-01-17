@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{E05B74A6-FBE9-4525-A46F-C66037FF1528}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/ProductService.cs">
+    <Files>
+      <File FileName="Services/ProductService.cs" Line="13" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="supermarket" expanded="True">
+            <Node name="supermarket" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Domain" expanded="True">
+                <Node name="Communication" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+              <Node name="Mapping" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Persistence" expanded="True">
+                <Node name="Contexts" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="ProductService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.supermarket PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

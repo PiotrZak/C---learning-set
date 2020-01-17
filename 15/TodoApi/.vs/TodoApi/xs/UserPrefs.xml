@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B75E5CFC-F56E-4E55-BFB1-57A6A7675F16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Controllers/TodoController.cs">
+    <Files>
+      <File FileName="TodoApi/Models/TodoItem.cs" Line="25" Column="5" />
+      <File FileName="TodoApi/Controllers/TodoController.cs" Line="58" Column="1" />
+      <File FileName="TodoApi/Startup.cs" Line="46" Column="34" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodoApi" expanded="True">
+            <Node name="TodoApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TodoController.cs" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TodoApi FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

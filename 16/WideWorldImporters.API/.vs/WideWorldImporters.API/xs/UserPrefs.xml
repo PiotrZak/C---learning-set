@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{28627B47-FCA6-42B1-8B26-5BA3D9AB6BC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.WideWorldImporters.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WideWorldImporters.API/appsettings.json">
+    <Files>
+      <File FileName="WideWorldImporters.API/Startup.cs" Line="38" Column="52" />
+      <File FileName="WideWorldImporters.API/appsettings.json" Line="9" Column="40" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WideWorldImporters.API" expanded="True">
+            <Node name="WideWorldImporters.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

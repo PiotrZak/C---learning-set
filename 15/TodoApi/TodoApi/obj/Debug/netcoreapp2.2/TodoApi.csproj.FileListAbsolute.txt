@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/admin/Desktop/Nauka/c#/TodoApi/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb

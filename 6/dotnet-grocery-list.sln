@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-grocery-list", "dotnet-grocery-list.csproj", "{F15F0B21-F5E5-4CFA-A2C6-9271C736A06F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15F0B21-F5E5-4CFA-A2C6-9271C736A06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15F0B21-F5E5-4CFA-A2C6-9271C736A06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15F0B21-F5E5-4CFA-A2C6-9271C736A06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15F0B21-F5E5-4CFA-A2C6-9271C736A06F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
